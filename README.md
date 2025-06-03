@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @up2code3
-- 👀 I’m interested in learning how to code and getting paid to work remotely 
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me the_position3030@yahoo.com 
 
